@@ -1,0 +1,14 @@
+{
+    "mandarine": {
+        "dataSource": {
+            "dialect": "postgresql",
+            "data": {
+                "host": "localhost",
+                "port": 5432,
+                "username": "postgres",
+                "password": "Changeme1",
+                "database": "mandarine2"
+            }
+        }
+    }
+}
